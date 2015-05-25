@@ -1,0 +1,21 @@
+/*
+Example html cod:
+---------------
+HTML
+---------------
+
+<a href="#callback" class="button fancybox">Заказать звонок</a>
+
+<form action="" id="callback"  class="popup-callback">
+    <h3 class="popup-callback--header">Заказть обратный звонок</h3>
+    <input class="popup-callback--input" type="text" name="name" placeholder="Введите имя">
+    <input  class="popup-callback--input" type="text" name="phone" placeholder="Телефон" required>
+    <button class="button" type="submit" class="popup-callback--button" >Заказать звонок</button>
+</form>
+
+---------------
+JS
+---------------
+    <script src="libs/fancybox/source/jquery.fancybox.js"></script>
+*/
+

@@ -6,18 +6,18 @@
   ],
   "dependencies": {
     "jquery": "latest",
-    "bootstrap": "latest",
+    "bootstrap-sass": "latest",
     "fontawesome": "latest",
     "fancybox": "latest",
     "carousel": "latest",
-    "countdown": "latest"
+    "normalize.scss": "latest"
   },
   "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
-    "libs2",
+    "libs",
     "test",
     "tests",
     "libs"
